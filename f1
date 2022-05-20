@@ -1,0 +1,11 @@
+Conflicts
+======
+abort 
+Manual 
+auto merging
+
+git abort(Aborting the process)
+git merge branch name
+git pull --rebase
+git push
+
